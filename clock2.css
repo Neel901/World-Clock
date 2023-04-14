@@ -1,0 +1,36 @@
+div {
+    width: 400px;
+    margin: 200px;
+    text-align: center;
+}
+
+.time {
+    padding: 20px;
+    font-size: 70px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    background-size: contain;
+    background-position: center; /* Center the image */
+}
+.country {
+    font-size: 80px;
+}
+
+#ist {
+    /* background-image: url("flag.jpg"); */
+    background: rgba(198, 110, 1, 0.3)
+
+}   
+
+#jst { 
+    background: rgba(233, 5, 131, 0.3)
+} 
+
+#mst {
+    background: rgba(225, 128, 9, 0.3)
+    
+} 
+
+#gst {
+    background: rgba(34, 214, 14, 0.3)
+}
